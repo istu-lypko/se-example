@@ -14,4 +14,4 @@ A brief description of your project.
 3. Run the following command to start the console app:
 
    ```bash
-   node app.js
+   node index.js
